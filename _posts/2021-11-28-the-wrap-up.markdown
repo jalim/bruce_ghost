@@ -2,7 +2,7 @@
 layout: post
 title: The wrap-up
 date: '2021-11-28 06:21:05'
-img: /2021/11/Certificate10241024_1.JPG
+img: /2021/11/Certificate10241024_1.jpg
 ---
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="/assets/img/2021/11/Hawthorn-House--6.JPG" class="kg-image" alt loading="lazy" width="2000" height="1500" sizes="(min-width: 720px) 720px"><figcaption>I chose Alzheimer's WA as my cause for this walk to Albany, and it was an honour to be asked to join staff and residents at Hawthorn House in Albany for lunch upon my arrival into Albany.</figcaption></figure>
@@ -12,5 +12,5 @@ img: /2021/11/Certificate10241024_1.JPG
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src=" /assets/img/2021/11/IMG_5803.JPG" class="kg-image" alt loading="lazy" width="1277" height="909" sizes="(min-width: 720px) 720px"><figcaption>An article in the Albany Advertiser</figcaption></figure>
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src=" /assets/img/2021/12/IMG_5817.JPG" class="kg-image" alt loading="lazy" width="1214" height="1729" sizes="(min-width: 720px) 720px"><figcaption>Some additional publicity for Alzheimer's WA that arose from my walk and visit to Hawthorn House in Albany</figcaption></figure>
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src=" /assets/img/2021/11/IMG_2913.JPG" class="kg-image" alt loading="lazy" width="2000" height="2667"  sizes="(min-width: 720px) 720px"><figcaption>Receiving my certificate and badge for my end-to-end walk from my great friends, Ce Keally (Office Manager) and Hugh Payne (volunteer). Both Ce and Hugh are also "end-to-enders"</figcaption></figure>
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" /assets/img/2021/11/Certificate10241024_1.JPG" class="kg-image" alt loading="lazy" width="2000" height="2667"  sizes="(min-width: 720px) 720px"><figcaption></figcaption></figure>
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" /assets/img/2021/11/Certificate10241024_1.jpg" class="kg-image" alt loading="lazy" width="2000" height="2667"  sizes="(min-width: 720px) 720px"><figcaption></figcaption></figure>
 <figure class="kg-card kg-image-card"><img src=" /assets/img/2021/11/Stats-and-learnings10241024_2-1.jpg" class="kg-image" alt loading="lazy" width="724" height="1024"  sizes="(min-width: 720px) 720px"></figure><figure class="kg-card kg-image-card"><img src=" /assets/img/2021/11/Stats-and-learnings10241024_1.jpg" class="kg-image" alt loading="lazy" width="724" height="1024"  sizes="(min-width: 720px) 720px"></figure><figure class="kg-card kg-image-card"><img src=" /assets/img/2022/01/Sponsors-and-supporters1024_1.jpg" class="kg-image" alt loading="lazy" width="724" height="1024"  sizes="(min-width: 720px) 720px"></figure><figure class="kg-card kg-image-card"><img src=" /assets/img/2022/01/Sponsors-and-supporters1024_2.jpg" class="kg-image" alt loading="lazy" width="724" height="1024"  sizes="(min-width: 720px) 720px"></figure>
